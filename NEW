@@ -1,0 +1,13 @@
+DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>LE titre de ma page</title>
+        <p>
+            viualisation:<br>
+            <img src="project/3D.png" alt="Photo meubles " />
+            </p>
+    </head>
+    <body>
+    </body>
+</html>
